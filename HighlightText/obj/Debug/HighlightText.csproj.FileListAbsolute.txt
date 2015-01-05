@@ -1,0 +1,9 @@
+c:\users\xieyl\documents\visual studio 2012\Projects\HighlightText\HighlightText\bin\Debug\HighlightText.exe.config
+C:\Users\xieyl\documents\visual studio 2012\Projects\HighlightText\HighlightText\bin\Debug\HighlightText.exe
+C:\Users\xieyl\documents\visual studio 2012\Projects\HighlightText\HighlightText\bin\Debug\HighlightText.pdb
+C:\Users\xieyl\documents\visual studio 2012\Projects\HighlightText\HighlightText\obj\Debug\HighlightText.csprojResolveAssemblyReference.cache
+C:\Users\xieyl\documents\visual studio 2012\Projects\HighlightText\HighlightText\obj\Debug\HighlightText.Form1.resources
+C:\Users\xieyl\documents\visual studio 2012\Projects\HighlightText\HighlightText\obj\Debug\HighlightText.Properties.Resources.resources
+C:\Users\xieyl\documents\visual studio 2012\Projects\HighlightText\HighlightText\obj\Debug\HighlightText.csproj.GenerateResource.Cache
+C:\Users\xieyl\documents\visual studio 2012\Projects\HighlightText\HighlightText\obj\Debug\HighlightText.exe
+C:\Users\xieyl\documents\visual studio 2012\Projects\HighlightText\HighlightText\obj\Debug\HighlightText.pdb
